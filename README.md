@@ -1,5 +1,5 @@
 # Coding Challenge: Log Monitoring Application
-This project is addressed to a specific requestor. Represent a java application POC based on document `Log Monitoring Application 1.pdf` which from possible copyright issues, I will not upload it in this repo.
+This project is addressed to a specific requestor. It is a java POC application based on document `Log Monitoring Application 1.pdf` which due to possible copyright issues, I will not upload to this repo.
 
 ## Design
 The application is designed to read a log file and parse it to extract the required information. The log file is expected to have the following format:
